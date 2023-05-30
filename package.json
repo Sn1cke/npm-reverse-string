@@ -1,6 +1,6 @@
 {
   "name": "sn1cke-reverse-string",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Returns a reversed string",
   "main": "index.js",
   "scripts": {

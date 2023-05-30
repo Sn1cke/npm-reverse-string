@@ -3,7 +3,7 @@ function reverseString(input) {
   const reversed = arrayOfInput.reverse();
   const result = reversed.join("");
 
-  return result;
+  return result.toLowerCase();
 }
 
 module.exports = reverseString;
